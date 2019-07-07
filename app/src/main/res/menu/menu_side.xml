@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="sport news"
+        android:id="@+id/sport"/>
+    <item
+        android:title="business news"
+        android:id="@+id/business"/>
+    <item
+        android:title="health news"
+        android:id="@+id/health"/>
+    <item
+        android:title="technology news"
+        android:id="@+id/technology"/>
+    <item
+        android:title="science news"
+        android:id="@+id/science"/>
+</menu>
